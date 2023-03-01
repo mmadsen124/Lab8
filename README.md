@@ -5,9 +5,9 @@ This note can support the Markdown Style Format
 number1 = 10
  number2 = 30
 total = number1 + number2
-print(total)
+print(total) 
 ```
-
+![Figure 1](https://eraser.imgix.net/workspaces/ce53flOKt2OSjGbycC48/vOPoC1SVCVW8sRvWSUcfPl8GmmJ3/---figure---RIIfl7iVraIavgpEij3mxw.svg?ixlib=js-3.7.0 "Figure 1")
 
 
 
